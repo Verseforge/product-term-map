@@ -2,7 +2,7 @@
 
 一句话介绍：一个面向产品新人、AI 产品运营实习准备者和产品助理候选人的产品术语学习网页。
 
-作者：@Verseforge
+作者：by @Verseforge
 
 Copyright (c) 2026 Verseforge. All rights reserved.
 
